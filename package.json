@@ -1,0 +1,42 @@
+{
+  "name": "operatorip",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pomor/operatorip",
+  "description": "IP to Operator, custom version from geotools",
+  "keywords": [
+    "geo",
+    "geobase",
+    "geo lookup",
+    "ip base",
+    "geocode"
+  ],
+  "author": {
+    "name": "Ivanov Dmitry",
+    "email": "pomor71@gmail.com"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pomor/operatorip.git"
+  },
+  "bugs": {
+    "mail": "pomor71@gmail.com",
+    "url": "http://github.com/pomor/operatorip/issues"
+  },
+  "main": "index.js",
+  "engine": {
+    "node": ">=0.8.0",
+    "npm": "1"
+  },
+  "licences": [
+    {
+      "type": "LGPL2.1",
+      "url": "http://www.gnu.org/licenses/lgpl-2.1.txt"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "_id": "operatorip@0.0.1",
+  "dist": {
+    "shasum": "462de5ba6d68f126d4c755f7df4608919a12beb0"
+  }
+}
