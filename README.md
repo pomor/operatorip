@@ -1,14 +1,3 @@
-
-geotools
-========
-
-Simple and fast IP to Country/Region lookup module for nodejs. **Pull Requests are welcome!**
-
-## GEO databases
-
-You can download fresh geo database from this website: http://ipgeobase.ru/.
-Database contains major ranges for all countries worldwide and presice ranges for most Russian cities/regions.
-Also it could be extended with another geo data.
 operatorip
 ==========
 
