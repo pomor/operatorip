@@ -11,5 +11,5 @@ add only ID Axis operator
 ## Usage
 
 	var operator = require('operatorip');
-	var res = geo.lookup("203.78.112.11");
+	var res = operator.lookup("203.78.112.11");
 	// output is { country: 'ID', operator: "ID_AXIS" }
